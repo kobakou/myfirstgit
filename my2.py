@@ -51,3 +51,4 @@ print a
 print map (double, a)
 print map (lambda x:x*x*x, a)
 
+# 会社からはgithub.comへはPushできないので注意！
