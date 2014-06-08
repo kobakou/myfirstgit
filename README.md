@@ -1,8 +1,10 @@
 Readme of myfirstgit
 ===
 
-+ githubを使ってみるメモ
-
 This is my personal project.
+
++ githubを使ってみるメモ
++ pythonを使ってみた
+
 
 <kou.kobayashi@gmail.com>
