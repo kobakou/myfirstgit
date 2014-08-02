@@ -7,4 +7,6 @@ This is my personal project.
 + pythonを使ってみた
   my*.py
 
++ vagrant を使ってみたメモ
+
 <kou.kobayashi@gmail.com>
