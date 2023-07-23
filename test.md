@@ -9,3 +9,4 @@
 # signingのテスト
 
 1password で 署名ができるか？
+Sign Keyとして別途おなじものをUploadすることでよし
