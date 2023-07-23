@@ -5,3 +5,8 @@
 * http://news.mynavi.jp/column/ide/152/
 
 * git/bitbacket/sourcetreeといい感じに連携するテキストエディタの情報も欲しい。何か情報ないかなぁ
+
+# signingのテスト
+
+1password で 署名ができるか？
+Sign Keyとして別途おなじものをUploadすることでよし
